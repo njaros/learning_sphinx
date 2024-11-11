@@ -1,0 +1,4 @@
+build/
+*.json
+.venv
+sphinx_sample.rst
